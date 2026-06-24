@@ -26,3 +26,25 @@ build/
 
 # Ignore workspace-specific large or sensitive folders
 .vscode/extensions/
+
+# OneDrive / accidental folders often created in home
+4th-Assi*/
+4th-Assig*/
+4th-Assigment*/
+4th-Assi/
+4th-Assig/
+4th-Assigment/
+
+# System and user profile leftovers
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
